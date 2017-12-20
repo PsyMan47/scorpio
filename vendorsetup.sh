@@ -1,0 +1,2 @@
+add_lunch_combo du_scorpio-userdebug
+add_lunch_combo du_scorpio-eng
